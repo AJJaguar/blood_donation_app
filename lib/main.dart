@@ -182,7 +182,7 @@ class _PageState extends State<Page> {
       child: Text(
         'Articles',
         style: TextStyle(
-            fontFamily: 'Splash',
+            fontFamily: 'Source Sans Pro',
             color: Color(0xff69131A),
             fontSize: 18.sp,
             fontWeight: FontWeight.w600),
